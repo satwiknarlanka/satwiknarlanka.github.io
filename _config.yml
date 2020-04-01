@@ -3,22 +3,16 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
+name: Satwik Narlanka
+title: Software Engineer
+email: narlankasatwik@gmail.com
 website: www.github.com/sproogen/resume-theme
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
+twitter_username: satwiknarlanka
+github_username:  satwiknarlanka
+linkedin_username: satwiknarlanka
+youtube_username: satwiknarlanka
 
 # About Section
 # about_title: About Me
